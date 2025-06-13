@@ -123,7 +123,7 @@ By completing this task, you’ll gain hands-on experience in:
 **Santhi Raju Peddapati**
 B.Tech in Computer Science (AI & ML)
 Andhra Loyola Institute of Engineering & Technology
-Email: [santhirajucs@gmail.com](mailto:santhirajucs@gmail.com)
+Email: [santhinani364@gmail.com](mailto:santhinani364@gmail.com)
 GitHub: [github.com/santhirajucs](https://github.com/SanthiNani)
 
 ---
