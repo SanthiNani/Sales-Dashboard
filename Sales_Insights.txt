@@ -1,0 +1,5 @@
+Based on the sales dashboard, here are three key insights:
+- West region had the highest sales in Q3.
+- East region dominates total sales performance -generated approximately 0.68M in sales, significantly outperforming all other regions.
+- Technology is the leading product category - accounts for 836.15K (36.4%) of total sales, making it the top-performing category.
+- Sales show a declining trend over time - consistent downward trajectory from peak of 118K in late 2014 to 52K by early 2017.
