@@ -92,10 +92,9 @@ This project is a basic introduction to building effective data visualizations f
 
 ## 📌 Key Insights
 
-1. **West region** consistently outperformed all others, with peak sales during **Q2 and Q3**.
-2. The **Technology category** generated the highest revenue across all regions.
-3. **November** marked the highest monthly sales, likely due to seasonal shopping trends.
-
+1. East region dominates total sales performance - generated approximately 0.68M in sales, significantly outperforming all other regions.
+2. Technology is the leading product category - accounts for 836.15K (36.4%) of total sales, making it the top-performing category
+3. Sales show a declining trend over time - consistent downward trajectory from peak of 118K in late 2014 to 52K by early 2017.
 ---
 
 ## 📤 Deliverables
